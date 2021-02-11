@@ -1,6 +1,6 @@
 # Ecoleta
 
-É um projeto desenvolvido no bootcamp Next Level Week da Rocketseat. O objeto do Ecoleto é ser um Marketplace entre empresas ou entidades que coletam resíduos as pessoas que precisam descartar esses resíduos.
+É um projeto desenvolvido no bootcamp Next Level Week da Rocketseat. O objeto do Ecoleta é ser um Marketplace entre empresas ou entidades que coletam resíduos com as pessoas que precisam descartar esses resíduos.
 
 # Tecnologias 
 
